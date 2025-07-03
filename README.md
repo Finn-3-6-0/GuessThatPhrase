@@ -39,6 +39,6 @@ While similar concepts exist on platforms like **TikTok** and **Instagram**, the
 
 ## 📄 Game Design Document  
 Want to learn more about the design process?  
-👉 [View the full PDF here](docs/emoji_game_design.pdf)
+👉 [View the full PDF here](docs/GTP_DESIGN_PDF.pdf)
 
 ---
