@@ -6,8 +6,8 @@
 ## 🎯 Project Overview  
 This game challenges players to guess popular phrases, idioms, or sayings based on combinations of emojis.  
 For example, with a picture of 🐱, 🐶, 🌧️ it would hint at the phrase **"raining cats and dogs."**  
-This project includes three game modes: easy, hard and a bonus spanish level.  
-Alongside intuitave sign up and login processes paired with email functionality so users can notify admins about account troubles.
+This project includes three game modes: Easy, Hard and a bonus Spanish level.  
+Alongside intuitive sign-up and login processes paired with email functionality so users can notify admins about account issues.
 
 ---
 
