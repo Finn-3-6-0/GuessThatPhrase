@@ -14,19 +14,19 @@ Alongside intuitive sign-up and login processes paired with email functionality 
 ## 💡 Why I Built This  
 I wanted to create a game that encourages **inclusive play**, sparks **friendly competition**, and helps people connect through fun and shared cultural references. Emojis were the perfect medium:
 
-- 🌍 **Universally recognized** – no need for translation  
-- 💬 **Used daily** by people across the globe  
-- 🎮 **Accessible and engaging** for all generations  
+-  **Universally recognized** – no need for translation  
+-  **Used daily** by people across the globe  
+-  **Accessible and engaging** for all generations  
 
 While similar concepts exist on platforms like **TikTok** and **Instagram**, there was no standalone desktop app or game built around this idea. This gave the project a **unique selling point (USP)** in a market filled with games based on TV shows like *Catchphrase*.
 
 ---
 
 ## 🚀 Features  
-- 🧠 Emoji-based puzzles with different levels of difficulty  
-- 👨‍👩‍👧‍👦 Designed for all age groups  
-- 🏆 Score tracking for friendly competition  
-- 🔄 Replayability with randomized challenges  
+-  Emoji-based puzzles with different levels of difficulty  
+-  Designed for all age groups  
+-  Score tracking for friendly competition  
+-  Replayability with randomized challenges  
 
 ---
 
