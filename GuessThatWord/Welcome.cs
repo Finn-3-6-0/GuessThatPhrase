@@ -139,7 +139,7 @@ namespace GuessThatWord
                     SmtpClient client = new SmtpClient("smtp.gmail.com", 587);
 
                     //Authentication - ensures the program has a valid email to send from
-                    NetworkCredential cred = new NetworkCredential("GuessThatPhrase@gmail.com", "boekdvvnrbyspxye");
+                    NetworkCredential cred = new NetworkCredential("GuessThatPhrase@gmail.com", "EMAIL_KEY_HERE");
 
                     MailMessage msg = new MailMessage();
 
